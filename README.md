@@ -23,6 +23,6 @@ I'll use IBM Cognos Analytics to build a dashboard that will compile all of the 
 Week 6: Presentation of findings.
 I use storytelling to share my findings in a presentation.
 
-Analysis Dashboard Link:
+Analysis Dashboard Link: https://dataplatform.cloud.ibm.com/dashboards/72d4074e-8ee0-457d-bfbd-0c0d90270945/view/5724f92126b702f468b0d0e4079c2b0f7836730eb5bb855184807b4908317797a86842c5c82d4b0fdc180667a5ec1559cd
 
 Project Presentaion Link:
